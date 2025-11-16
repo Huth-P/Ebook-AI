@@ -1,1 +1,69 @@
 
+⭐ 1. CAPA – Prompt
+
+Prompt:
+“Create a colorful video-game style illustration inspired by classic platformer games. Show a cheerful hero wearing overalls and a red cap jumping to hit a glowing ‘1-UP’ block floating above a grassy platform. A futuristic laptop with green Python code on the screen stands beside him. Add floating coins, bright power-up mushrooms, pixel clouds, and a magical fantasy kingdom in the background. Include vibrant lighting, bold outlines, and playful cartoon aesthetics. Title space at the top.”
+
+⭐ 2. CONTRACAPA – Prompt
+
+Prompt:
+“Create a friendly, colorful scene in a fantasy platformer kingdom. Show three characters (a hero in red, a princess in pink, and a green-clad helper) waving while holding laptops with glowing code. Add floating blocks, stars, coins, pixel clouds, and rolling hills. Use bright colors, soft shading, and playful cartoon style. Leave space in the center for text.”
+
+⭐ 3. ÍNDICE (Mapa do Reino / Mapa das Fases) – Prompt
+
+Prompt:
+“Create a whimsical world-map inspired by classic platformer games, showing 10 small themed worlds connected by paths. Each world should have a tiny icon: code block, mushroom, tube, star, coins, fire flower, scroll, treasure chest, warp pipe, and small robot. Use bright colors, friendly cartoon style, floating clouds, green hills, and pixel-inspired textures. Add a banner at the top that says ‘Mapa das Fases’.”
+
+🌈 PROMPTS POR MUNDO (1 a 10)
+
+Cada mundo tem um visual próprio.
+
+🌍 Mundo 1 – Introdução ao Reino do Python
+
+Prompt:
+“Create a colorful platformer-style scene where the hero discovers a glowing laptop on top of a grassy block. Show floating question blocks, coins, and soft pixel-like clouds. The laptop screen shows green Python code. Add a friendly, magical vibe.”
+
+🌍 Mundo 2 – Variáveis e Moedas
+
+Prompt:
+“Create a vibrant illustration of a platform game scene filled with shiny coins floating in patterns. A quirky hero collects coins labeled with small variable names (like x, y, total) glowing above them. Add bright blocks, blue sky, and a playful cartoon style.”
+
+🌍 Mundo 3 – Tubos Condicionais (if/else)
+
+Prompt:
+“Create a platformer world with two tubes: one green and glowing, another darker. Above each tube, place floating signs saying ‘if’ and ‘else’. A hero stands deciding which tube to enter. Use bright colors, mushrooms, coins, and cloud platforms.”
+
+🌍 Mundo 4 – Looping pelos Blocos
+
+Prompt:
+“Create a fun cartoon platformer scene showing repeating floating blocks arranged in a loop pattern. A hero jumps through them in sequence, leaving motion trails. Add coins in a circular arrangement and a sky with soft pixel clouds.”
+
+🌍 Mundo 5 – Funções Power-Up
+
+Prompt:
+“Create a glowing Fire-Flower-inspired power-up symbol with magical energy swirling around it. A hero touches the flower and gains a bright aura. Include hills, stars, blocks, and vivid warm lighting.”
+
+🌍 Mundo 6 – Listas e Inventário
+
+Prompt:
+“Create a platformer-style inventory interface floating in the air. Show several cartoon items: mushrooms, stars, coins, scrolls, mini coding books. A hero looks at the inventory floating overhead. Use bright colors and playful style.”
+
+🌍 Mundo 7 – Dicionários Mágicos
+
+Prompt:
+“Create a magical ancient-scroll book floating above a stone block. The book displays attribute icons like strength, speed, health. Add sparkles, runes, and fantastical lighting. Background with hills, blocks, glowing mushrooms.”
+
+🌍 Mundo 8 – Erros e Goombas (Inimigos Metafóricos)
+
+Prompt:
+“Create a cute and funny enemy shaped like a round bug wearing glasses, symbolizing coding errors. The hero jumps over it. Add floating red exclamation-mark icons, error signs, and blocks. Style: colorful, friendly, whimsical.”
+
+🌍 Mundo 9 – Warp Zones e Módulos
+
+Prompt:
+“Create a mysterious platformer warp pipe glowing with blue and purple light. Show portals and floating icons representing code modules (small scrolls, cubes, symbols). Add sparkles, swirling energy, and a dreamy night-sky background.”
+
+🌍 Mundo 10 – Mini-Projeto de IA
+
+Prompt:
+“Create a futuristic platformer lab with a small friendly robot on a floating block. The robot looks at a screen showing simple AI logic diagrams. Add neon lights, colorful cables, stars, glowing blocks, and a sense of discovery.”
